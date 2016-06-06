@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">PetagramVP</string>
+    <string name="star_text_sample">5</string>
+    <string name="mensaje_add_stars">Agregar Estrella (pendiente)...</string>
+    <string name="menu_contacto_texto">Contacto</string>
+    <string name="menu_acerca_de_texto">Acerca de</string>
+    <string name="input_sender_name">Ingrese su nombre</string>
+    <string name="input_sender_email">Ingrese su correo electrónico</string>
+    <string name="input_sender_comments">Comentarios</string>
+    <string name="boton_enviar_comentarios">Enviar Comentarios</string>
+    <string name="app_email"></string>
+    <string name="app_send_to">raparis@gmail.com</string>
+    <string name="app_email_password"></string>
+    <string name="correo_enviado">Comentarios enviados...</string>
+
+    <string name="ingrese_comentarios">Ingrese sus comentarios</string>
+    <string name="ingrese_nombre">Ingrese su nombre</string>
+    <string name="ingrese_correo">Ingrese su correo</string>
+
+    <string name="autor">Rafael Paris</string>
+    <string name="correo">correofalso@gmail.com</string>
+    <string name="telefono">+58&#8211;261&#8211;555&#8211;4433</string>
+</resources>
