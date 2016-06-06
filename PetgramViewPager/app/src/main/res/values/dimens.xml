@@ -19,5 +19,5 @@
     <dimen name="foto_altura_cardview_perfil">50dp</dimen>
 
     <dimen name="autor_margen_superior">50dp</dimen>
-    <dimen name="autor_tamaño_fuente">20sp</dimen>
+    <dimen name="autor_tamaño_fuente">24sp</dimen>
 </resources>
